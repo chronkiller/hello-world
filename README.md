@@ -1,2 +1,3 @@
 # hello-world
-Walk before you crawl... or something
+
+Hello internet! I'm very excited to start learning web development... Let's get to it!
